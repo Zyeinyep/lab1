@@ -1,8 +1,5 @@
 
-zkhaval@data:~$ cd cs252
-zkhaval@data:~/cs252$ cd lab1-src
-zkhaval@data:~/cs252/lab1-src$ ./tests/expected/test_simple2
-TEST: test_simple2.c
+
 INTIAL STATE
 
 FREELIST
