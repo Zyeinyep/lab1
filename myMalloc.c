@@ -1,18 +1,4 @@
-Last login: Thu Feb  2 01:02:51 on ttys001
-zyeinyepkhaval@Zyeinyeps-MacBook-Pro ~ % ssh zkhaval@data.cs.purdue.edu
 
-* NOTICE *
-
-data.cs.purdue.edu is for interactive instructional use and program
-development.  It is not to be used for long-running CPU-intensive jobs
-(such as training machine learning models) or for research computing.
-Such jobs will be terminated.
-
-The MC cluster machines (mc17.cs.purdue.edu through mc21.cs.purdue.edu)
-are available for CPU-intensive instructional and research computing.
-
-zkhaval@data.cs.purdue.edu's password: 
-Last login: Thu Feb  2 01:02:56 2023 from 100.68.129.228
 zkhaval@data:~$ cd cs252
 zkhaval@data:~/cs252$ cd lab1-src
 zkhaval@data:~/cs252/lab1-src$ ./tests/expected/test_simple2
